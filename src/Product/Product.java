@@ -1,4 +1,4 @@
-package model;
+package Product;
 
 public abstract class Product {
     protected String productId;

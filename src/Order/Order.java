@@ -1,4 +1,7 @@
-package model;
+package Order;
+
+import Payment.PaymentMethod;
+import Product.Product;
 
 import java.util.ArrayList;
 import java.util.List;

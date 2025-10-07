@@ -1,4 +1,4 @@
-package model;
+package Payment;
 
 public interface PaymentMethod {
     void pay(double amount, String customerName);

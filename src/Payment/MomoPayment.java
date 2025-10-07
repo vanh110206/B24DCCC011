@@ -1,4 +1,4 @@
-package model;
+package Payment;
 
 public class MomoPayment implements PaymentMethod {
     private String momo;

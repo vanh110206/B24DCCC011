@@ -1,4 +1,4 @@
-package model;
+package Payment;
 
 public class CashPayment implements PaymentMethod {
     private String cash;

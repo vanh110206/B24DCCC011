@@ -1,4 +1,4 @@
-package model;
+package Product;
 
 public class ElectronicProduct extends Product {
     private String imei;
